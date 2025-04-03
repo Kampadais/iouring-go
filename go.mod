@@ -1,4 +1,4 @@
-module github.com/kampadais/iouring-go
+module github.com/Kampadais/iouring-go
 
 go 1.15
 
